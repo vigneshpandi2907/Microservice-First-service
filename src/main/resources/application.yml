@@ -1,0 +1,9 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: FIRST-SERVICE
+logging:
+  level:
+    org.springframework.cloud.gateway: DEBUG
